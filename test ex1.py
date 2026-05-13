@@ -1,2 +1,3 @@
-print('Hello world')
-# edit online
+name = input('Enter name: ')
+print('Hello '+name)
+
